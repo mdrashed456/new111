@@ -28,7 +28,7 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime": "^7.13.10",
+    "@babel/runtime": "^7.17.2",
     "@browser-bunyan/server-stream": "^1.6.1",
     "@jitsi/sdp-interop": "0.1.14",
     "@material-ui/core": "^4.11.4",
