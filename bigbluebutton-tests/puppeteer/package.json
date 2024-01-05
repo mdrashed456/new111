@@ -6,7 +6,7 @@
     "verbose": false
   },
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.4",
     "babel-jest": "^27.0.6",
     "child_process": "^1.0.2",
     "dotenv": "^6.0.0",
