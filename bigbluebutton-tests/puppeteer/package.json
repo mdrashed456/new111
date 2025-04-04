@@ -18,7 +18,7 @@
     "js-yaml": "^4.0.0",
     "moment": "^2.24.0",
     "puppeteer-mass-screenshots": "^1.0.14",
-    "puppeteer-video-recorder": "^1.0.3",
+    "puppeteer-video-recorder": "^1.0.4",
     "sha1": "^1.1.1",
     "sleep-promise": "9.1.0",
     "yaml": "^1.7.2"
